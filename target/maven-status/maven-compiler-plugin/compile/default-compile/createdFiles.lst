@@ -1,0 +1,13 @@
+AbstractFactory.class
+FactoryProducer.class
+ShapeFactory.class
+Green.class
+Shape.class
+Square.class
+Red.class
+Color.class
+Rectangle.class
+Blue.class
+Circle.class
+Artist.class
+ColorFactory.class
